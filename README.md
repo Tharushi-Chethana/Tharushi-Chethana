@@ -10,6 +10,6 @@
 - 🌐 Check out my GitHub repositories to see what I've been working on!
 
 🔗 My GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharushi-Chethana&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)](https://github.com/Tharushi-Chethana)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharushi-Chethana&show_icons=true&count_private=false&hide=contribs,prs&theme=dark)](https://github.com/Tharushi-Chethana)
 
 Thanks for stopping by! 😊
